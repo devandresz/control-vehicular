@@ -1,0 +1,47 @@
+[
+  {
+    "marca": "Yamaha",
+    "modelo": "MT-09",
+    "anio": 2019,
+    "vin": "YAM092019MT",
+    "estado": "En aduana",
+    "color": "rojoo",
+    "id": 1
+  },
+  {
+    "marca": "Yamaha",
+    "modelo": "MT-09",
+    "anio": 2020,
+    "vin": "YAM092020MT",
+    "estado": "Transito",
+    "color": "Negro",
+    "id": 2
+  },
+  {
+    "marca": "Scion",
+    "modelo": "iA",
+    "anio": 2016,
+    "vin": "SCI16IA7890",
+    "estado": "Mantenimiento al día",
+    "color": "Blanco",
+    "id": 3
+  },
+  {
+    "marca": "Suzuki",
+    "modelo": "Gixxer",
+    "anio": 2022,
+    "vin": "SUZ22GX4560",
+    "estado": "Require servicio",
+    "color": "Azul",
+    "id": 4
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "CX-5",
+    "anio": 2025,
+    "vin": "MAZ25CX5012",
+    "estado": "En aduana",
+    "color": "Gris",
+    "id": 5
+  }
+]
